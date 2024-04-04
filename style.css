@@ -289,6 +289,10 @@ footer li {
         justify-content: center;
     }
 
+   .bar-content+.bar-content {
+        margin-left: 1.5em;
+    }
+    
     .sidebar-content+.sidebar-content {
         margin-left: 1.5em;
     }
